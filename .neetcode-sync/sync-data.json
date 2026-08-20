@@ -1,0 +1,12 @@
+{
+  "problems": {
+    "three-integer-sum": {
+      "title": "3Sum",
+      "difficulty": "Medium",
+      "language": "nums",
+      "ext": "txt",
+      "url": "https://neetcode.io/problems/three-integer-sum/history",
+      "updatedAt": "2026-08-20T04:42:53.543Z"
+    }
+  }
+}
